@@ -1,0 +1,953 @@
+Acid Drop		40.5682	-75.4358	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Bauer Rock (South Mountain)>White Trash Rocks
+Dingmans Drip		41.22032	-74.87131	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Dingmans Falls
+Dingmans Falls		41.22032	-74.87131	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Dingmans Falls
+Silver Sheet		41.22032	-74.87131	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Dingmans Falls
+Silverthread Falls WI3		41.22032	-74.87131	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Dingmans Falls
+Teardrop Buttress	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>a. Teardrop Buttress
+Tears are Falling	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>a. Teardrop Buttress
+Boca Roca Grande	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>Boca Roca Grande
+Drifting Arrow	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>c. The Practice Face
+Espresso	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>c. The Practice Face
+High Falls	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>c. The Practice Face
+Pussytoes	T,TR	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>d. Cat Wall
+Great Escape, The	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>e. The Grunge Wall
+Chieftain	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>f. Land of the Giants
+Crackpot	T,S	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>f. Land of the Giants
+Point of No Return	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>f. Land of the Giants
+Surprise	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>f. Land of the Giants
+Voyage of the Damned	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>f. Land of the Giants
+Morning Wall	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>g. The Morning Wall Area
+Sleeping Beauty	T,S	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>h. The High Wall>2. High Wall Center
+Snow White and the Seven Dwarves	T,S	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>h. The High Wall>2. High Wall Center
+Captain Hook		40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>h. The High Wall>3. High Wall Right
+Heroine Hypnosis	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>h. The High Wall>3. High Wall Right
+Osprey	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>h. The High Wall>3. High Wall Right
+Full Tilt	T	40.9645	-75.122	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Delaware Water Gap (PA)>Mount Minsi>j. Screaming Eagle Area
+Finding B-MO		40.54767	-75.47804	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Emmaus Boulders>Approach Boulder
+Sharks Tooth?		40.54767	-75.47804	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Emmaus Boulders>Approach Boulder
+Bar Hopping		40.54786	-75.47692	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Emmaus Boulders>Main Area
+Pulp Friction		40.54786	-75.47692	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Emmaus Boulders>Main Area
+Yvly		40.54786	-75.47692	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Emmaus Boulders>Main Area
+Porkus Non Grata	T	40.9002	-75.7469	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Eagle Cliff
+Afternoon Delight		40.8835	-75.7603	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Glen Onoko
+Bat Cave, The	T,S,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Blap	S	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Gorgeous Arete, The	T	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Gorgeous Crack, The	T,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Gorgeous Face, The	T	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Guano (Bat cave alternate start)	S,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Mixed Bidness	T,S,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Monkey's Fist	T,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Party at Tims	S	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Separate Reality	S	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Too Many Tacos, Not Enough Toilet Paper	T,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Variety Crack	T,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Welcome Crack	T,TR	40.8848	-75.7634	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Lehigh Gorge State Park>Gorgeous Rocks
+Brass Arete	S,TR	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Brass Monkey	TR	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Cornflake Crack	T	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Flamer	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Great Expectations	S,TR	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Grey Face	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Grey Nose	TR	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Lavwelle Latte	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Warm Up Route	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Back Side
+Darling Dainty Feet	S	41.14657	-76.13827	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Front Side
+Nuclear Arms	S	41.14657	-76.13827	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Front Side
+Phazers on Stun	T,TR	41.14657	-76.13827	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Front Side
+unnamed	S	41.14657	-76.13827	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Front Side
+Unnamed 5.12	S	41.14657	-76.13827	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Front Side
+Urine Over Your Head	T	41.14657	-76.13827	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Main Block, Front Side
+K.B.	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Rear Wall
+Lightning	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Rear Wall
+Pine Line	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Rear Wall
+Stairway to Heaven	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Rear Wall
+Thunderstud	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>The Library>Rear Wall
+Beginner's Crack	T	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Beginner's Slab	T,TR	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Beginners Top-Rope Face	TR	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Bullseye	T	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Double Wave	T,S	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Guido	TR	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Iodine	T	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Mercury	S	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+No Name Crack	T	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Pizza	T,TR	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Razor Blade	T,S	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+ZigZag Crack	T,TR	41.1485	-76.1133	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Main Wall
+Agent Orange	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Astro Projection	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Broken Finger	T,TR	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Direct Drive	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+First Blood	T	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Hickory	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+I-Beam	T,TR	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Maple	T	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+New Generation - 5.12a	T,S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Oak	T	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Oh Boy	T	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Pine	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Rambo	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Rambo Direct	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Roofing Madness	S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+Tricks	T,S	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+White Water	T	41.1482	-76.1448	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Mocanaqua (Shickshinny)>Paradise
+45 MPH		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Air Mattress	S	40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Banana		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Center Pillar		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Cigar		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Dead Deer Gully		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Evil Twin		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Homeland Insecurity		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Left Corner		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Lock 20 South		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Locktenders	T	40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Main Flow		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Main Gully		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Mixed Emotions	T	40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Pencil		40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Rubber Sheets	S	40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Specific Gravity	S	40.5634	-75.1597	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Narrows
+Blue Velvet America		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Corrupted Brow		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Danielle		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Hard Very Scranton		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Hope		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+John		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Leaving Buenos Aires		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Mini-prow		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Punctured Beauty		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+To Have and Two Hold		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Tree House Traverse		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+Try Not		41.4019	-75.639	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Nay Aug Park
+5.10	T,S	41.2727	-75.7664	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Rim
+Cresent moon		41.2727	-75.7664	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>The Rim
+Baldface Liar		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Bear cub		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Eagles Perch	TR	41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Emperor's new clothes		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Fat lip		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Ice cube		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+So you wanna fight		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Tenticle		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Thing 1		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Thing 2		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Thing 3		41.32448	-79.57833	Pennsylvania>North Central>Pennsylvania>The Northwest>Deer Rock
+Arachnaphobia		40.9918	-80.1844	Pennsylvania>North Central>Pennsylvania>The Northwest>Kennedy's Mill
+Dancing with the Stars		40.9918	-80.1844	Pennsylvania>North Central>Pennsylvania>The Northwest>Kennedy's Mill
+Elephants Have Dreams Too		40.9918	-80.1844	Pennsylvania>North Central>Pennsylvania>The Northwest>Kennedy's Mill
+Gingers Don't Dance		40.9918	-80.1844	Pennsylvania>North Central>Pennsylvania>The Northwest>Kennedy's Mill
+Headbangers' Ball		40.9918	-80.1844	Pennsylvania>North Central>Pennsylvania>The Northwest>Kennedy's Mill
+hepC		40.9918	-80.1844	Pennsylvania>North Central>Pennsylvania>The Northwest>Kennedy's Mill
+Leprechauns Need Love		40.9918	-80.1844	Pennsylvania>North Central>Pennsylvania>The Northwest>Kennedy's Mill
+Beginners Be Ware	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Beginners' Face
+Beginners' Face	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Beginners' Face
+Birthday Boulder		40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Birthday Boulder
+Happy Happy Joy Joy		40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Birthday Boulder
+Five Finger Arete	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Five Finger Block
+Five Finger Traverse		40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Five Finger Block
+Arete, The	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Island Block
+Mission Impossible	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Island Block
+Prenuptial Taste Test		40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Island Block
+She Got The Bosch, I Got Drilled	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Island Block
+Temptation	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Island Block
+Variation	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Island Block
+Boulder Dash		40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Rappel Rock
+Crater Expectations	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Rappel Rock
+Hanging in Space	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Rappel Rock
+Laid Back	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Rappel Rock
+R.O.T.C. Route	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Rappel Rock
+Schmeggie	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Rappel Rock
+Mini Ovest aka Peter Pan	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Ship's Prow
+Variation: Tinker Bell	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Ship's Prow
+You Name It	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Ship's Prow
+Mr. Clean	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Sunshine Wall
+Sunshine	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Sunshine Wall
+Unnamed	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Sunshine Wall
+Welcome to The Mill	TR	40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Sunshine Wall
+Unknown - Boulder near north end		40.95392	-80.17141	Pennsylvania>North Central>Pennsylvania>The Northwest>McConnells Mill State Park>Rim Road Climbing Area>Unknown Boulder
+Billboard	TR	41.8434	-78.9465	Pennsylvania>North Central>Pennsylvania>The Northwest>Rim Rock
+Girlish Figure	T,TR	41.8434	-78.9465	Pennsylvania>North Central>Pennsylvania>The Northwest>Rim Rock
+Leap of Faith	TR	41.8434	-78.9465	Pennsylvania>North Central>Pennsylvania>The Northwest>Rim Rock
+Nose, The	TR	41.8434	-78.9465	Pennsylvania>North Central>Pennsylvania>The Northwest>Rim Rock
+Rumple Stoneskin	TR	41.8434	-78.9465	Pennsylvania>North Central>Pennsylvania>The Northwest>Rim Rock
+Slippery When Wet	T,TR	41.8434	-78.9465	Pennsylvania>North Central>Pennsylvania>The Northwest>Rim Rock
+Stepping Stones	T,TR	41.8434	-78.9465	Pennsylvania>North Central>Pennsylvania>The Northwest>Rim Rock
+Coleman's Crack	T	40.92357	-77.77977	Pennsylvania>North Central>Pennsylvania>South Central PA>Bellefonte Quarry
+El Crackitan	T	40.92357	-77.77977	Pennsylvania>North Central>Pennsylvania>South Central PA>Bellefonte Quarry
+Left Hand Eliminate	T	40.92357	-77.77977	Pennsylvania>North Central>Pennsylvania>South Central PA>Bellefonte Quarry
+Manufractured	S	40.92357	-77.77977	Pennsylvania>North Central>Pennsylvania>South Central PA>Bellefonte Quarry
+Lowgistics		40.5445	-76.5356	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Bouldering
+Murderball		40.5445	-76.5356	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Bouldering
+Spade		40.5445	-76.5356	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Bouldering
+Spade Arete		40.5445	-76.5356	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Bouldering
+Apprentice, The	S	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Autumns Child	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Birthday Girl	T	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Cobblestoned	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Curt's Crack	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Great Train Robbery, The	T	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Headstone	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Keneissiology	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Manhattan Limited	TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Margies Curves - Left	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Margies Curves - Right	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Moby Neil	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Pebbles and Bam Bam	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Please Don't Pop	S	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Retro Vertigo	TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Russell's Ruin	T,TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Silver Streak	TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Snap Crackle Plop	S	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Vertigo	TR	40.5444	-76.5294	Pennsylvania>North Central>Pennsylvania>South Central PA>Boxcar Rocks (Chinese Wall)>Main Wall
+Exorcist, The		40.05242	-76.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>The Cave
+Foops Simulator		40.05242	-76.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>The Cave
+That Roof Crack	T	40.05242	-76.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>The Cave
+Unknown		40.05242	-76.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>The Cave
+For Madmen Only	TR	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Hollywood	T,TR	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Josh's Hump	T	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Lester the Molester	T,TR	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Library, The	T,TR	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Lower Undercling, The	T,TR	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Main Street (right)	T	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Notch, The	T,TR	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Snowflake	T	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Sunday Morning	T	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Undercling, The	T,TR	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+Witches Brew	T	40.05153	-76.52507	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Main Wall
+By Pass	TR	40.05273	-76.52521	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Northwest Buttress
+Great Expectations	TR	40.05273	-76.52521	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Northwest Buttress
+Hit and Run	T,TR	40.05273	-76.52521	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Northwest Buttress
+Solution Crack	T,TR	40.05273	-76.52521	Pennsylvania>North Central>Pennsylvania>South Central PA>Chickies Rock>Northwest Buttress
+Pinnacle Direct	TR	40.8578	-77.4614	Pennsylvania>North Central>Pennsylvania>South Central PA>Coburn
+Hang Ten		40.35467	-76.91911	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>Dauphin Narrows Bouldering>Boulder Garden South
+Northern Lights		40.35467	-76.91911	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>Dauphin Narrows Bouldering>Boulder Garden South
+Pineapple Diesel		40.35467	-76.91911	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>Dauphin Narrows Bouldering>Boulder Garden South
+Warm up		40.35467	-76.91911	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>Dauphin Narrows Bouldering>Boulder Garden South
+Sky Hook		40.35949	-76.92224	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>Dauphin Narrows Bouldering>Odysseus (roof boulder)
+And Now For Something Completely Different	T	40.35807	-76.92394	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>South Buttress (Linoy Buttress)
+Corpsicle	T	40.35807	-76.92394	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>South Buttress (Linoy Buttress)
+Gun, The	T	40.35807	-76.92394	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>South Buttress (Linoy Buttress)
+Heel-a-Peel	T	40.35807	-76.92394	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>South Buttress (Linoy Buttress)
+Hugh's 11	T	40.35807	-76.92394	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>South Buttress (Linoy Buttress)
+Metamorphosis	T	40.35807	-76.92394	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>South Buttress (Linoy Buttress)
+Monkey See, Monkey Do	T	40.35807	-76.92394	Pennsylvania>North Central>Pennsylvania>South Central PA>Dauphin Narrows>South Buttress (Linoy Buttress)
+Bisquack		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Bread Box		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Bread Slab		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Breadloaf Arete		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Breadloaf Arete Traverse		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Breadloaf Face Project		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Cobra		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Keg Stand		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Knead It		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Party Right		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Pop 'N Fresh		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Quickie		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Ungreased		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Vulture		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Yeast		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Breadloaf & Immediate Vicinity
+Cave Prow		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+E Flake		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+Entrance Arete		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+Entrance Face		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+Finish Line		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+J-Crack		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+Tissue Issue		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>The Cave
+45		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+45 Arete		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+45 Center Face		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+45 Degree Stand Start		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+45 Degree Wall Sit Start		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+45 Left		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+45 Right		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+45 Traverse		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Apex		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Bigfoot		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Butt Crack		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Circ Mantel		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Dom Don't Know		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Domino		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Domino Face		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Gathering, The		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Low Ride		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Open Circuit		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Planet of the Apes		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Slopey Circ Arete		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Slopey Circ Mantel		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Thin Circ		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Unknown Lowball		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Circuit
+Creekside Throw		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Creekside & The Split Boulders
+Creekside Traverse		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Creekside & The Split Boulders
+Split Pants		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Creekside & The Split Boulders
+Split Personality		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Creekside & The Split Boulders
+Split Tips		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Creekside & The Split Boulders
+Cave Wave		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Fisticuffs		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Herr Center		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Herr Left		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Herr Right		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Lieback Crack		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Nestling		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Rosie		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Herr Brothers
+Barnacle Bill		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Beluga Blues		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Birth of Chuck		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Captain Ahab		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Dorsal Don		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Huck		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Huck Left		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Humpback		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Jaganath		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Jugarete		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Jugarete (Traverse)		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Juggernaut		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Killarete		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+McJump		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Minky Mantle		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Moby's Dick		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Mushroom Cap		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Mushroom Crack		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Pimp Slap		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Plankton		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Shitake		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Simulclimb		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Twin Face Left		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Twin Tips		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Moby's and Friends
+Gin & Juice		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pedal Boulder
+No Bedlam		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pedal Boulder
+Pedal Extension		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pedal Boulder
+Buck Dance		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+C's Problem		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Casanova		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Cassablanca		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Cleopatra's Waltz		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Dish Arete		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Dish Right		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Dish, The		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Eggsocentric		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Foo, The		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+King Tut		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Mummy March		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Mummy Right		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Mummy's Walkup		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Open For Buisness		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Pyramid, The		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Swamp Foot		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Tomb Traverse		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+		40.1319	-76.6952	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Pyramid Area
+Ballarete		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Captain Prow		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+D-Day		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Dirty Sanchez		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Glass Arete		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Glass Menagerie		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Karmic Power		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Left Up		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+LOC Up		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+LT		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Mexican Hat		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Private Slabby		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Royale With Cheese		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Satellite		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Scoop, The		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+Sergeant Crumble		40.12947	-76.6946	Pennsylvania>North Central>Pennsylvania>South Central PA>Governor Stable>Warm-up Area
+American Pansy		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Cockblock		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Hillside Attraction		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Horsepens Boulder, The		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Incredarete		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Levitation Complication		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Mr. Grumpers		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Mushroom Mantle		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Mushroom Tattoo		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Saddle Burr		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Standard American Accent		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Sweet Arete, The		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Verbing		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Welcome to Hunters		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Wonderbread		40.5503	-77.8587	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Main Area
+Sit and Reach		40.5649	-77.849	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Oaks
+Tremble and Reach		40.5649	-77.849	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Oaks
+Trembling, The		40.5649	-77.849	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Oaks
+Wind and the Willows, The	TR	40.5649	-77.849	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Oaks
+Agape		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Agathon		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Alcoholic Recovery (aka Recovery Cave)		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Beer Milkshake		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Calathon		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Celery Roof, The		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Electric Arete		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+First Church of Appliantology, The		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+First Will Be Last, The		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Hunger Artist Stand		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Hunger Artist, The		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Trevor's Traverse		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+You Into This		40.5589	-77.8528	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>The Powercut
+Mojo		40.5502	-77.8586	Pennsylvania>North Central>Pennsylvania>South Central PA>Hunter's Rocks (Rocky Ridge Natural Area)>Private Property - do not use
+Odin		40.09762	-76.92502	Pennsylvania>North Central>Pennsylvania>South Central PA>Little Rocky Ridge>Valhalla Boulder
+Son of Odin		40.09762	-76.92502	Pennsylvania>North Central>Pennsylvania>South Central PA>Little Rocky Ridge>Warmup Boulder
+"23 Project"		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+"Trailside Project"		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Corporate Strategies		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Exhibit A		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Fabulous		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Omega Zen		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Ping		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Pong		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Scarlet Lady		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Slopey Feature		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Teen Spirit		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Triangle		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>45 Area
+Adjustor, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Adjustor Boulder
+Long Dong		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Adjustor Boulder
+Beautiful Day		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Beautiful Day
+Brady Arete		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Beautiful Day
+Finger Fun		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Beautiful Day
+Right Arete		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Beautiful Day
+Sick Slab		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Beautiful Day
+Feel My Pain		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Bookend Boulder
+Hero		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Bookend Boulder
+Left Bookend		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Bookend Boulder
+Right Bookend		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Bookend Boulder
+"15 Project"		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Bacon		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Bodysnap		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Bodysnap Sit		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Colflesh Direct		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Energy		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Green Eggs		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Gumdrops		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Ham		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Havit		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Homefries		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Inner Light		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Jenn Savage		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Nectar Vector		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Oh Shit		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Outer Dark		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Pancakes		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Posion Ivy		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Scrapple		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Sur La Pointe		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Terretti		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Colflesh Area
+Goofy Foot		40.1568	-76.49224	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Hang Ten Boulder
+Hang Ten		40.1568	-76.49224	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Hang Ten Boulder
+Maverick		40.1568	-76.49224	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Hang Ten Boulder
+Delerium Tremens		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Highball
+Highball Arete, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Highball
+Original Route, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Highball
+Trickle in Time		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Highball
+Breadloaf, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Matrix Area
+Crazy Game of Poker		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Matrix Area
+Lonely Boy		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Matrix Area
+Spring Chicken		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>The Matrix Area
+Modest Man		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Mojo Area
+Mojo Inhibitor		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Mojo Area
+Transform		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Mojo Area
+Crimptonite		40.2529	-76.43349	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Otherlands>Rollercoaster
+Roller-coaster		40.2529	-76.43349	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Otherlands>Rollercoaster
+Shadow Gallery, The		40.2529	-76.43349	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Otherlands>Rollercoaster
+Zipper, The		40.2529	-76.43349	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Otherlands>Rollercoaster
+Fury Road		40.2529	-76.43349	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Otherlands>The Roof
+Mad Max		40.2529	-76.43349	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Otherlands>The Roof
+Mad Max Direct		40.2529	-76.43349	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Otherlands>The Roof
+Astroboy		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Chet’s Children		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+cousin IT		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Dark side aka Teachers Pet		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Islander		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+IT		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Prow, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Serenity Crack		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Testicles		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Vigilante (aka Warm-up Crack)		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Vigilante Direct		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+White Dwarf		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Prow Area
+Bow Hunter		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Pulley Area
+Deer Hunter		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Pulley Area
+Ninja Gaiden		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Pulley Area
+Sumbitch		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Pulley Area
+Tony Danza		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Pulley Area
+Baby Signs		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Balance or Power		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Bashista Yo Sista		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Decepticon		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Heaven		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Help Meat		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Josh in the Box		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Overlord		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Pet Goat		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Shamoo		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Shamoo Dihedral		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Sneaker Crack		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Talking to Myself		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Shamoo Area
+Lemon Drop		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Light Your Mind		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Multiple Personalities		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Outlier, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Paula		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Seamstress		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Skate Shoes		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Smiley Face		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Smiley Slab		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Tony's Roof		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Smiley Area
+Green Marble Arete, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Green Marble, The		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Needle to the Vein		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Particle Man		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Porcelain		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Reunion		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Shroom Star		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Year of the Dragon		40.2373	-76.4558	Pennsylvania>North Central>Pennsylvania>South Central PA>Mount Gretna>Upper Matrix
+Extra Stout	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Cove
+Stout	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Cove
+Dark Room, The	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Dark Room
+D' Antonio Route	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Shield Wall
+Darkness Falls	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Shield Wall
+Mental Obstacle	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Shield Wall
+Raging Bitch	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Shield Wall
+Unnamed 5.10	S	39.8073	-76.3133	Pennsylvania>North Central>Pennsylvania>South Central PA>Peavine Island>The Shield Wall
+Chimney	T	40.0411	-77.2664	Pennsylvania>North Central>Pennsylvania>South Central PA>Pole Steeple
+Crack II	T,TR	40.0411	-77.2664	Pennsylvania>North Central>Pennsylvania>South Central PA>Pole Steeple
+Unknown Ceiling	T,TR	40.0411	-77.2664	Pennsylvania>North Central>Pennsylvania>South Central PA>Pole Steeple
+		40.0411	-77.2664	Pennsylvania>North Central>Pennsylvania>South Central PA>Pole Steeple
+Arettissima	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Big Mama	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Born to be Wild	T,TR	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Chimney	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Five Star Crack	T,TR	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Hopper	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+North Face Left, The	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+North Face, The	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Puppy	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Puppy in Heat	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Rezerection	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Southern Comforts	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Sundown	T	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks
+Simplicity		39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Brown Rocks Bouldering
+Grumpy Bear	T,TR	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Exploration Wall
+Pur-plex-ploration	T,TR	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Exploration Wall
+Sunday stroll	T,TR	39.86402	-77.52518	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>Brown Rocks>Exploration Wall
+Arête, The	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>1 - The Arete Wall (aka Rock One Area)
+Crack-R-Jack	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>1 - The Arete Wall (aka Rock One Area)
+Crackin Up	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>1 - The Arete Wall (aka Rock One Area)
+Green Jeans	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>1 - The Arete Wall (aka Rock One Area)
+Vulgarian Highball, The		39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>1 - The Arete Wall (aka Rock One Area)
+Toxic Traverse		39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>2 - Indian Rocks
+Incidental Consequences	TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>3 - Hidden Delights
+Doowop Chimney	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>6 - Hard Scramble Corner
+Proctometer	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>6 - Hard Scramble Corner
+Saddle aka Fists And Fingers, The	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>6 - Hard Scramble Corner
+Thriller Pillar	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>6 - Hard Scramble Corner
+CramJam	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>7 - Zorro Was Here Area
+MeatHead	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>7 - Zorro Was Here Area
+SpamJam	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>7 - Zorro Was Here Area
+Digger O`dell	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>8 - Coroner's Area
+Northern Pillar	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>8 - Coroner's Area
+Pigs in Space	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>8 - Coroner's Area
+Stomach Contents	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>8 - Coroner's Area
+Cal's Ceiling	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>9 - Calvin's Slabs
+Calvin Corner	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>9 - Calvin's Slabs
+Grumpy Gus	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>9 - Calvin's Slabs
+Patriot Act	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>9 - Calvin's Slabs
+Alley, The	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Bolt Left	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Bolt Right	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Chimney Route	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Chris’s Corner	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Down Climb	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Easter Bunny	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Mister Gut Wrench	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+S__Face	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+T.P. Corner	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Wanderer, The	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Well Groomed When Pruned	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>10 - Pillar 2
+Arching Route	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Boulder Problem		39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Cave, The	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Classic Corner	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Gonads	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Great Chimney, The	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Jester	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Jim's Throne	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Nasty Crack	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Pine Tree	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+R.H. Crack	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Reach Around Boo	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Sea of Grunge, The	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Seven Percent Solution	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Sign of Zorro	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Thin Crack	T	39.8684	-77.5237	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>11 - Jim's Wall
+Angulation	S	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>12 - Angulation Wall
+Super Crack aka Wise Crack	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>12 - Angulation Wall
+Surf The Boogie	T,S	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>12 - Angulation Wall
+Eves Rib	T,S	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>13 - Glen's Roof Wall
+Eves Rib Direct Finish	T,S	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>13 - Glen's Roof Wall
+Flying Snake	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>13 - Glen's Roof Wall
+Glen’s Roof aka Linda Screams	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>13 - Glen's Roof Wall
+Overlooked Overhang	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>13 - Glen's Roof Wall
+Copper Heads	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>14 - Craggy Pines Area
+CP Face	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>14 - Craggy Pines Area
+Disjointed Apparatus	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>14 - Craggy Pines Area
+Let’s Face It	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>14 - Craggy Pines Area
+North Face Crack	T,TR	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>14 - Craggy Pines Area
+Piney Corner	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>14 - Craggy Pines Area
+Diagonal Crack	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>15 - Binocular Rocks Area
+Last Sign Of Zorro	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>15 - Binocular Rocks Area
+Lizard Bail Out	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>15 - Binocular Rocks Area
+Disappointment	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>16 - The Pulpit
+Sawtooth Corner	T	39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>16 - The Pulpit
+Breakfast Burrito		39.14322	-77.64125	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Backside Boulders
+Breakfast of Champions		39.14322	-77.64125	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Backside Boulders
+Sunny Side Up		39.14322	-77.64125	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Backside Boulders
+Cocaine		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Highlands
+Leprechaun		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Highlands
+Yin & Yang Traverse		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Highlands
+Bear Hug		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Chinese Puzzle		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Day Dreamer		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Easy Peasy		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Fern Roof		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Full Circle		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Lone Wolf		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Lookout, The		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Magic Carpet Ride		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Maniacal Ways		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+May the Flowers Shower		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Rune Stoner, The		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Silence		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Singularity		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Soft, Soft Static		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Tiny Axe		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Zen Devil		39.87695	-77.52064	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones Central
+Anastasia		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Beast		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Bodhi Slab		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Bong Rip		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Capitalist		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Capitalist Direct		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Diamond in the Rough		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Flyin' High		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Led Balloon		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Light as a Feather		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Monkey		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Prolitarian		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Rookie Arete		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Rookie Dyno		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+So Ono!		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Stoned		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Tiny Tim		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Warm Sunrise		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+		39.87743	-77.52047	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Rune Stones>Rune Stones North
+Tabless Bitch		39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Tabless Bitch Boulder
+Buddha Traverse		39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Way of the Alpine Buddha Boulder
+Off the Beaten Path		39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Way of the Alpine Buddha Boulder
+Three-Fold Path		39.86785	-77.52389	Pennsylvania>North Central>Pennsylvania>South Central PA>Pond Bank>White Rocks>White Rocks Bouldering>Way of the Alpine Buddha Boulder
+Greasy Bastard Cluster-Crux	T,TR	40.5739	-76.0233	Pennsylvania>North Central>Pennsylvania>South Central PA>Port Clinton Crag
+Left turn crack	T	39.95847	-76.45964	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>0.5 Northernmost trail section
+Rob's old Bolt Line	S	39.95847	-76.45964	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>0.5 Northernmost trail section
+7 Slates of Gray	S	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Bernie Plays Base	TR	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Bio Hazard	S	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Chimney of horror	S	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Die Fledermaus	S	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+In the Jungle	TR	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Predator	S	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Short Crack	T	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Short Wrack	TR	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Sticky Wicket	S	39.94833	-76.44834	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>1.5 Chimney of Horror Section
+Banshee	S	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Black Wall	S,TR	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Easier Done Than Said	S	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Easier Said than Done	S	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Five 5s	T	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Hand Crack	T	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Midas Touch	S	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Said and Done	S	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Unnamed	TR	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Unnamed 2	TR	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Unnamed 3	TR	39.93895	-76.4339	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>2.5 Alpine Wall (aka tall wall)
+Arduous	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Barely Legal	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Fus RO Dah	S,TR	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Handle with Care	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Legacy route	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Malice	S,TR	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Nanny Goat	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+No Boltage	TR	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Sugar Frosted Razorflakes	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Warm Up, The	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+Welcome to Birdsboro	S	39.93765	-76.42677	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.0 Euro Wall
+1. Slab and pockets	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.3 Star Wall
+2. Knife Edge Arete	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.3 Star Wall
+3. Steep Face	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.3 Star Wall
+4. Steep Slab?	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.3 Star Wall
+Gold Line	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.3 Star Wall
+Ander's Onsight	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Dopamine	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Honeysuckle	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Levitation	T	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Missing Ethan	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Mossy Pocket	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Packing Distracted	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+S. L.	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Spoof Roof	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.4 S. L. Area
+Aaron's Follies	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.6 Zero Wing
+Zero Wing	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.6 Zero Wing
+Catfish Cleft	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+Grim, The	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+How does eat food?	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+Likin, Lichen, Bush	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+PSA: Fire Prevention	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+Reaper, The	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+Stegosaurus Rex	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+Stick Clip It	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+What am the sky?	S	39.93242	-76.41374	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>3.75 Cat Fish Cliff Area
+Austin Pockets	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.0 Austin Powers Buttress
+Dr Evil's Cat	TR	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.0 Austin Powers Buttress
+Slabadelic Baby!	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.0 Austin Powers Buttress
+100th Monkey	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.4 Choss Wall
+Fun Hogs	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.4 Choss Wall
+My Wife the Slavedriver	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.4 Choss Wall
+Primal Scream	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.4 Choss Wall
+Charming Snakes	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.5 Cemetery Wall - Fine Line Area
+It's a Fine Line	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.5 Cemetery Wall - Fine Line Area
+Mindwalk	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.5 Cemetery Wall - Fine Line Area
+Power Surge	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.5 Cemetery Wall - Fine Line Area
+Project	S,TR	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.5 Cemetery Wall - Fine Line Area
+Raptor	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.5 Cemetery Wall - Fine Line Area
+Afrosheen	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Buzz Clip	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Chutes and Ladders	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Drug a virgin	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Dry Bones Dance	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Leap of Faith	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Monk Gets Ripped	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Nini won't stay down	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Nose, The	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Pause for Thought	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Pity You	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Power at Play	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Rant and Rave	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Ruby Red Slippers	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Smooth Operator	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Tabula Rasa	S	39.92935	-76.40028	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.51 Cemetery Wall
+Beat Crazy	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.511 Cemetery Short Wall
+Corner Stone	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.511 Cemetery Short Wall
+Damnation 1992	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.511 Cemetery Short Wall
+Tonus Bonus	S	39.96741	-76.45454	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor North>4.511 Cemetery Short Wall
+Blood Sugar Magic	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>a. Blood Sugar Magic Sector
+Blood Sugar Magic Direct Start	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>a. Blood Sugar Magic Sector
+Bomb Free Harbor	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>a. Blood Sugar Magic Sector
+Copperhead Road	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>a. Blood Sugar Magic Sector
+Key West	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>a. Blood Sugar Magic Sector
+After Thought?	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Black V	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Can't Remember	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Clever Retort	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Electric Co.	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Lost Boys	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Maggie	S,TR	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Mia	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Old School High Ball	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Public Service	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Safe Harbor Direct	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Snake Route	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Sugar High	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Trad/Solo	T	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Two Pines	S	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+Under Fire	S,TR	39.91973	-76.3783	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>b. Electric Co. Sector
+???	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Dancing Abi	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Good Enough	T,S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Grassy Ledges	T	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Hanging Garden, The	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Hollywood Blvd	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Horizontal plaything	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Not sure. Referred to as "elevenish"	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Scott's Turf builder	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Split Difference	S,TR	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Tenuous Odyssey	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Turf Builder Access Route	T	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Under the Bridge	T,S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Vine St	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>c. Tenuous Odyssey Sector
+Between Rains	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Between Rains (Thunderhead Var.)	S,TR	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Fist Full of Schist	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Lynn's Chin	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Machismo	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Pass The Dew	T	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Two Cold to Stroke	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Virtual Reality	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Witness	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>d. Machismo Sector
+Pro Bono	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>e. Super Slab Sector
+Slab Master	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>e. Super Slab Sector
+Super Slab	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>e. Super Slab Sector
+Through the woods	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>e. Super Slab Sector
+Who Shot Bambi?	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>e. Super Slab Sector
+Your Mother	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>e. Super Slab Sector
+Autumn Arch	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Chillin' and Maxin'	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Doppelganger	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Eminant Domain	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Expose'	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+FR-Agile	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Heart's Horizon	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Locomotion	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Lycra Perversion	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Schisting, The	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Static Cling	S,TR	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Urban Daydreams	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Visionaire	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+White Stripes	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+Wonderama	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>f. Autumn Arch Sector
+18 and Life	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+19’s In The House	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+AF in PA	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Avant Garden	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Both Ends Burning	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Both Ends Burning Variation	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Final Cut	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Marriage by Napster	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Righteous and the Wicked, The	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Rockin’ Peacock	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Upper Cut	TR	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>g. The Righteous and the Wicked Sector
+Bat Crack	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Black Is Power	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Crips & Bloods	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Hogwart's Can Fly	TR	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Numero Uno	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Other Crack by Numero Uno, The	T	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+T-Bag	T	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+That Crack by Numero Uno	T	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Tonga	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Tonga Redirect	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Tradatrocity	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Warthogs Can't Fly	TR	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+When Doves Cry	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Wild Palms	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>h. Numero Uno Sector
+Demon In My Semen	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+Econoline	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+Eight ... No. Ten!	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+Flex All	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+Flex in Vain	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+Sighting, The	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+Train in Vain	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+Train In Vain Direct Start	S	39.90803	-76.3642	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>i. Train in Vain Sector
+5.9 crack	T	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Ad 2 Vic	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Adopted Son	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Body Drama	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Crossroads	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Deep V Crack	T	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Humpin' Somethin'	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Hydroman	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Incipient Crack	T	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+JSF	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Le Eaglet	T,S,TR	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Mental As Anything	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Old School	T	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Old Trad Line	T	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Parabolic Corner (high variation)	S,TR	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Parabolic Corner (low variation)	S,TR	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+There Goes the Hood	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Tin Woman	S	39.92038	-76.37879	Pennsylvania>North Central>Pennsylvania>South Central PA>Safe Harbor>Safe Harbor South>j. Hydroman Sector
+Bastard, The	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Bitch, The	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Blazing Saddles	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Crucifixion	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Grungie	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Grungie Face	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Hipster	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+In Your Face	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Leap of Faith	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Lost Religion	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Old Dutch Climber's Route	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Rappel Crack	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+RC Direct	T,TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Rotary	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Soul Patch Direct	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Spider Balls	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Spider Man	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Spider Man Direct	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Spider Man Indirect	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Ten Pins	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Unappreciated	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Unnamed A	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Unnamed B	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Vision of Stem	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Wing Wang Woof	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Yellow Pages	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Main Wall
+Ark	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+Crescents	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+Green Meanies	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+Lichen Left	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+Lichen Lizard	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+To My Lichen	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+Walk the Line	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+Wedgies	TR	39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>The Pit
+Birthday Traverse		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Cheese Grater Boulder
+Cheese Grater, The		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Cheese Grater Boulder
+Mantling 101		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Cheese Grater Boulder
+Unknown		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Cheese Grater Boulder
+Chongo Huck Traverse		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Dharma Bum Boulder
+Dharma Bum		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Dharma Bum Boulder
+Dharma Crack		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Dharma Bum Boulder
+Barugon		39.80844	-77.48411	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Gamera Boulder
+Guardian of the Universe		39.80844	-77.48411	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Gamera Boulder
+Guiron		39.80844	-77.48411	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Gamera Boulder
+MonsterX		39.80844	-77.48411	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Gamera Boulder
+Keiki		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Keiki Boulder
+Mantle Trainer		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Mantle Boulder
+Monkey Business		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Monkey Boulder
+Monkey Crack		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Monkey Boulder
+Battletoads		39.81237	-77.4931	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>NES Boulder
+Contra		39.81237	-77.4931	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>NES Boulder
+Double Dragon		39.81237	-77.4931	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>NES Boulder
+Quantum Roof		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Quantum Roof Boulder
+Radical Tension		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Radical Boulder
+Clam Sandwich		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Smokie Boulder
+Low Roof Direct		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Smokie Boulder
+Low Roof Traverse		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Smokie Boulder
+Womb, The		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Smokie Boulder
+Strata		39.8123	-77.4822	Pennsylvania>North Central>Pennsylvania>South Central PA>Shaffer Rocks (The Hermitage)>Shaffer Bouldering>Strata Boulder
+Bank Robbers Cave		40.026	-77.3554	Pennsylvania>North Central>Pennsylvania>South Central PA>Tumbling Run
+Dark Crystal		40.026	-77.3554	Pennsylvania>North Central>Pennsylvania>South Central PA>Tumbling Run
+Heavy Metal Kids		40.026	-77.3554	Pennsylvania>North Central>Pennsylvania>South Central PA>Tumbling Run
+Psycho 78		40.026	-77.3554	Pennsylvania>North Central>Pennsylvania>South Central PA>Tumbling Run
+Screaming Tanquility		40.026	-77.3554	Pennsylvania>North Central>Pennsylvania>South Central PA>Tumbling Run
+Counterweight		40.0641	-77.3715	Pennsylvania>North Central>Pennsylvania>South Central PA>Walnut Bottom
+Fire Wall		40.0641	-77.3715	Pennsylvania>North Central>Pennsylvania>South Central PA>Walnut Bottom
+Grease Lightning		40.0641	-77.3715	Pennsylvania>North Central>Pennsylvania>South Central PA>Walnut Bottom
+Malicious Intent		40.0641	-77.3715	Pennsylvania>North Central>Pennsylvania>South Central PA>Walnut Bottom
+Peace Arete		40.0641	-77.3715	Pennsylvania>North Central>Pennsylvania>South Central PA>Walnut Bottom
+Epic Trundle.	S	40.4908	-76.98397	Pennsylvania>North Central>Pennsylvania>South Central PA>Whaleback Mountain
+Kamakaze Crack	T	40.4908	-76.98397	Pennsylvania>North Central>Pennsylvania>South Central PA>Whaleback Mountain
+Bob Dylan Did Drugs		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Cranking Area
+Cranking, The		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Cranking Area
+Divine Order		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Cranking Area
+Pyramid Slab		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Cranking Area
+Ten High		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Cranking Area
+White Blaze Slab		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Cranking Area
+Classic Arête		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Entrance Area
+Entrance Arête		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Entrance Area
+S.o.m.b.e.		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Entrance Area
+Spittle Machine		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Entrance Area
+Changing Coroners		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Vulture View Area
+Grand Traverse		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Vulture View Area
+Hang On		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Vulture View Area
+Platex Crack		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Vulture View Area
+Whiskey Crack		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Vulture View Area
+Stolen Delights		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Webber Boulder
+Webber Arete		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Webber Boulder
+Webber Seam		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Webber Boulder
+Zero Wall		40.0959	-77.1326	Pennsylvania>North Central>Pennsylvania>South Central PA>Whiskey Springs>Webber Boulder
+Main Wall Traverse		40.13197	-77.08831	Pennsylvania>North Central>Pennsylvania>South Central PA>White Rock Acres>Main Wall
+White Rock to Whiskey Springs Endurance Traverse (link)		40.13197	-77.08831	Pennsylvania>North Central>Pennsylvania>South Central PA>White Rock Acres>Main Wall
+Bubba		40.13197	-77.08831	Pennsylvania>North Central>Pennsylvania>South Central PA>White Rock Acres>White Rock Acres Bouldering>Bubba Boulder
+Uber Classic Traverse		40.13197	-77.08831	Pennsylvania>North Central>Pennsylvania>South Central PA>White Rock Acres>White Wall
