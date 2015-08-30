@@ -13,7 +13,7 @@ say '
 #Acid Drop		40.5682	-75.4358	Pennsylvania>North Central>Pennsylvania>Northeast Ridges and Valleys>Bauer Rock (South Mountain)>White Trash Rocks
 while(<>) {
  chomp;
- my ($name,$type,$lon,$lat,$tree) = split/\t/;
+ my ($name,$type,$url,$lon,$lat,$tree) = split/\t/;
  $name =~ s/&/and/g; $name =~ s/>/--/g;$name =~ s/[^A-Za-z0-9]/ /g;
  $tree =~ s/&/and/g; $tree =~ s/>/--/g;$tree =~ s/[^A-Za-z0-9]/ /g;
 
@@ -22,7 +22,8 @@ while(<>) {
  say "
  <Placemark>
    <name>$name $type</name>
-   <description>$tree</description>
+   <description>$tree
+   http://mountainproject.com/$url</description>
    <Point>
      <coordinates>$lat,$lon</coordinates>
    </Point>

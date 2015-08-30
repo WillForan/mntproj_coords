@@ -5,16 +5,20 @@ use Mojo::DOM;
 use Mojo::UserAgent;
 use Data::Dumper;
 
-use scapgps.pm;
+use scrapgps;
 
 my $url="http://mountainproject.com/destinations/";
 
-my $scrapper = scarpgsp->new();
 my $dom = Mojo::UserAgent->new->get($url)->res->dom;
-my @urls=  map {$_->{href}} $dom->find('.destArea > a')->attr->each;
+my @urls =  $dom->find('.destArea > a')->map(attr=>'href')->each;;
+@urls = grep { ! /in-progress|international/i } @urls;
+#say join "\n", @urls;
+#exit;
 
-for my $u (@urls) {
+for my $u (reverse @urls) {
+ say STDERR $u;
  getMPRoutes([$u],'',[]);
+ say STDERR "finished $u";
 }
  
 

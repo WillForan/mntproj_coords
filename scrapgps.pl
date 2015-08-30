@@ -50,12 +50,12 @@ sub getRoutes {
 
    my @rinfo=();
    for my $tr ( $dom->at('#leftNavRoutes')->find('tr')->each ) {
-      say Dumper( $tr->find('span')->text );
+      #say Dumper( $tr->find('span')->text );
       my $rt = [ 
         $tr->at('a')->text,
         $tr->find('span.textLight')->text,
-         ( $tr->find('span.rateYDS')->text || "") .
-         ( $tr->find('span.rateHueco')->text || ""),
+        # ( $tr->find('span.rateYDS')->text || "") .
+        # ( $tr->find('span.rateHueco')->text || ""),
         $tr->at('a')->attr('href')
       ];
       push @rinfo, $rt;
