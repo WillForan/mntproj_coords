@@ -86,4 +86,59 @@ sub getMPRoutes {
  #return 0;
 }
 
+
+# like MP but for mountain bike routes
+# -- written to use different function for each type of page
+# MBindex, MBregions,MBroute
+sub MBrouteinfo {
+ my $url=shift;
+ $url='http://www.mtbproject.com/' . $url if $url =~ m:^/trail:;
+
+ my $dom = Mojo::UserAgent->new->get($url)->res->dom;
+
+ # first link in the trail head div
+ my $coord = $dom->at('body > div > div.textSmall > a');
+ return unless $coord;
+ $coord = $coord->attr('href'); 
+ $coord =~ s/.*daddr=//;
+ my @coords = split/,/,$coord;
+ #say @coords;
+ 
+
+ my $metrics = $dom->find('td > span > span.imperial')->map('text');
+ return unless $metrics->size == 6; # should have all the imperial metrics here
+ # clean up output
+ $metrics =  $metrics->grep(sub { !/miles/ })->map(sub{s/,//;s/\x{2019}//g;$_ });
+
+ # region
+ my $title  = $dom->at('h1');
+ my $diff  = $title->at('img')->attr('src');
+ $diff =~ s/.*diff(.*).gif/$1/;
+ $title = $title->all_text;
+
+ my $stars  = $dom->at('span[itemprop^="rating"]')->all_text;
+ #say "title: $title, diff: $diff, stars: $stars, metrics: ",$metrics->join(" ");
+
+ my %r = ( stars=>$stars, title=>$title,diff=>$diff);
+ $r{url} = $url;
+ @r{qw/miles ascent high desct low/} = @{$metrics->to_array};
+ @r{qw/lat lon/}=@coords;
+ return %r;
+}
+
+sub MBregions {
+ my $url=shift;
+ $url='http://www.mtbproject.com/' . $url if $url =~ m:^/(directory|trail):i;
+ say STDERR "\t$url";
+ my $search=shift; $search||='trail';
+ $search="/$search/";
+ # directory http://www.mtbproject.com/directory/8006784/alabama
+ # trails: http://www.mtbproject.com/directory/8009972/western-pa
+ 
+ my $dom = Mojo::UserAgent->new->get($url)->res->dom;
+
+ #my $list = $dom->find("table.trailList > tr > td > a[href=~'$search']")->map(attr=>'href');
+ my $list = $dom->find("table.trailList > tr > td > a")->map(attr=>'href')->grep(qr/$search/);
+ return $list;
+}
 1;
