@@ -21,7 +21,8 @@ sub getMPRoutes {
  my ($origurl,$name,$loc) = @_;
  my $url=$origurl->[0];
 
- $url='http://mountainproject.com' . $url if $url =~ m:^/v:;
+ $url='https://www.mountainproject.com' . $url if $url =~ m:^/v:;
+ $url=~s;http://m;https://www.m;;
 
  #say "# $url $name @$loc";
  my $dom = Mojo::UserAgent->new->get($url)->res->dom;
