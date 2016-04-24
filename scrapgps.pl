@@ -5,7 +5,8 @@ use Mojo::DOM;
 use Mojo::UserAgent;
 use Data::Dumper;
 
-my $url="http://mountainproject.com/v/pennsylvania/105913279";
+#my $url="http://mountainproject.com/v/pennsylvania/105913279";
+my $url="https://www.mountainproject.com/v/pennsylvania/105913279";
 # first argument can be a url
 $url = $ARGV[0] if $ARGV[0];
 
@@ -14,7 +15,8 @@ getRoutes([$url],'',[]);
 sub getRoutes {
  my ($origurl,$name,$loc) = @_;
  my $url=$origurl->[0];
- $url='http://mountainproject.com' . $url if $url =~ m:^/v:;
+ $url=~s;http://m;https://www.m;;
+ $url='https://www.mountainproject.com' . $url if $url =~ m:^/v:;
 
  #say "# $url $name @$loc";
  my $dom = Mojo::UserAgent->new->get($url)->res->dom;
@@ -23,8 +25,14 @@ sub getRoutes {
  my $title = $dom->at('h1')->all_text; 
  $title="$name>$title" if $name;
 
+
  # where is it located
- $loc=[$1, $2] if $dom->at('.rspCol > table')->all_text =~ m/Location: ([-\d\.]+), ([-\d\.]+)/;
+ my $desctable = $dom->at('.rspCol > table');
+ if(!$desctable){
+  say STDERR "no loc for $url";
+  return;
+ }
+ $loc=[$1, $2] if $desctable->all_text =~ m/Location: ([-\d\.]+), ([-\d\.]+)/;
  
  # routes
  my $routes = $dom->at('#leftNavRoutes');
